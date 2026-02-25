@@ -1,0 +1,94 @@
+{
+  "common": {
+    "skipToContact": "Skip to contact"
+  },
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "about": "About",
+    "contact": "Contact",
+    "bookCall": "Book a Call"
+  },
+  "hero": {
+    "headline": "AI Automation for Scalable Growth",
+    "subheadline": "Scale your business without increasing headcount.",
+    "ctaPrimary": "Book a Call",
+    "ctaSecondary": "Get in Touch"
+  },
+  "authority": {
+    "metric1": "20M+ Views",
+    "metric2": "100+ Automations Delivered",
+    "metric3": "Trusted by Businesses"
+  },
+  "services": {
+    "title": "Services",
+    "items": [
+      {
+        "id": "chatbots",
+        "title": "AI Chatbots"
+      },
+      {
+        "id": "workflow",
+        "title": "Workflow Automation"
+      },
+      {
+        "id": "crm",
+        "title": "CRM Integrations"
+      },
+      {
+        "id": "leads",
+        "title": "Lead Generation Systems"
+      }
+    ]
+  },
+  "about": {
+    "title": "About",
+    "paragraph": "We combine deep expertise in AI and process automation with a focus on measurable results. Our team has helped businesses scale operations, reduce manual work, and unlock growth through intelligent automation—without the overhead of large teams."
+  },
+  "contact": {
+    "title": "Get in Touch",
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "submit": "Schedule a Consultation"
+  },
+  "process": {
+    "title": "Our Process",
+    "subtitle": "How we design, build, and scale automation for your business.",
+    "steps": [
+      {
+        "stepNumber": "01",
+        "title": "Discovery & Planning",
+        "topics": [
+          "Standard products (ready-made automation solutions)",
+          "Custom products (tailored automation)",
+          "Business process understanding and mapping"
+        ],
+        "icon": "lightbulb",
+        "iconColor": "#7B61FF"
+      },
+      {
+        "stepNumber": "02",
+        "title": "Design, Build & Validation",
+        "topics": [
+          "UX/UI and solution architecture",
+          "Development and integration",
+          "Client validation and iterative feedback"
+        ],
+        "icon": "gears",
+        "iconColor": "#7B61FF"
+      },
+      {
+        "stepNumber": "03",
+        "title": "Launch, Maintenance & Support",
+        "topics": [
+          "Deployment and monitoring",
+          "Continuous improvements",
+          "Technical support and optimization"
+        ],
+        "icon": "rocket",
+        "iconColor": "#7B61FF"
+      }
+    ]
+  }
+}

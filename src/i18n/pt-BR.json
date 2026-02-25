@@ -1,0 +1,94 @@
+{
+  "common": {
+    "skipToContact": "Ir para contato"
+  },
+  "nav": {
+    "home": "Início",
+    "services": "Serviços",
+    "about": "Sobre",
+    "contact": "Contato",
+    "bookCall": "Agendar Chamada"
+  },
+  "hero": {
+    "headline": "Automação com IA para Crescimento Escalável",
+    "subheadline": "Escalone sua empresa sem aumentar a equipe.",
+    "ctaPrimary": "Agendar Chamada",
+    "ctaSecondary": "Fale Conosco"
+  },
+  "authority": {
+    "metric1": "20M+ Visualizações",
+    "metric2": "100+ Automações Entregues",
+    "metric3": "Confiado por Empresas"
+  },
+  "services": {
+    "title": "Serviços",
+    "items": [
+      {
+        "id": "chatbots",
+        "title": "Chatbots com IA"
+      },
+      {
+        "id": "workflow",
+        "title": "Automação de Fluxos"
+      },
+      {
+        "id": "crm",
+        "title": "Integrações CRM"
+      },
+      {
+        "id": "leads",
+        "title": "Sistemas de Geração de Leads"
+      }
+    ]
+  },
+  "about": {
+    "title": "Sobre",
+    "paragraph": "Combinamos expertise em IA e automação de processos com foco em resultados mensuráveis. Nossa equipe já ajudou empresas a escalar operações, reduzir trabalho manual e impulsionar o crescimento por meio de automação inteligente—sem a complexidade de equipes grandes."
+  },
+  "contact": {
+    "title": "Fale Conosco",
+    "name": "Nome",
+    "email": "E-mail",
+    "message": "Mensagem",
+    "submit": "Agendar uma Consultoria"
+  },
+  "process": {
+    "title": "Nosso Processo",
+    "subtitle": "Como projetamos, construímos e escalamos automação para o seu negócio.",
+    "steps": [
+      {
+        "stepNumber": "01",
+        "title": "Descoberta e Planejamento",
+        "topics": [
+          "Produtos padrão (soluções de automação prontas)",
+          "Produtos sob medida (automação personalizada)",
+          "Mapeamento e entendimento de processos de negócio"
+        ],
+        "icon": "lightbulb",
+        "iconColor": "#7B61FF"
+      },
+      {
+        "stepNumber": "02",
+        "title": "Design, Construção e Validação",
+        "topics": [
+          "UX/UI e arquitetura da solução",
+          "Desenvolvimento e integração",
+          "Validação com o cliente e feedback iterativo"
+        ],
+        "icon": "gears",
+        "iconColor": "#7B61FF"
+      },
+      {
+        "stepNumber": "03",
+        "title": "Lançamento, Manutenção e Suporte",
+        "topics": [
+          "Implantação e monitoramento",
+          "Melhorias contínuas",
+          "Suporte técnico e otimização"
+        ],
+        "icon": "rocket",
+        "iconColor": "#7B61FF"
+      }
+    ]
+  }
+}
